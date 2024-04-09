@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header className="bg-black text-light">
       <div className="container">
-        <h1 className="display-1">iPhone 15 Pro</h1>
+        <h1 className="display-1 py-3">iPhone 15 Pro</h1>
         <ul className="nav">
           <li className="nav-item">
             <NavLink to="/" className="nav-link  link-secondary">Overview</NavLink>
